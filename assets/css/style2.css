@@ -77,8 +77,7 @@ dt {
 */
 
 
-dt ::after,
-dd ::after {
+dt ::after{
     content: ", ";
 }
 dd {
